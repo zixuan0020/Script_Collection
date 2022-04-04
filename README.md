@@ -7,6 +7,7 @@ ddgy.js---滴滴果园<br>
 jztt.js---九章头条<br>
 kaka.js---咔咔<br>
 kfx.js---卡夫享<br>
+kgdzb.js---快手大学版<br>
 ks.js---快手<br>
 ksfcys.js---康师傅畅饮社<br>
 ksjsb.js---快手极速版<br>
